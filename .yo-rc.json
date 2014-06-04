@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "YUI 3 Node & Event Basics",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
