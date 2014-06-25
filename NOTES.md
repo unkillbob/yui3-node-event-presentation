@@ -10,7 +10,7 @@ Node
 ### The One
 
 - [x] Y.one
-- [ ] CSS selectors -> back to front
+- [x] CSS selectors -> back to front
 - [ ] IDs
 - [ ] not null-safe
 
