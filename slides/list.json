@@ -1,6 +1,9 @@
 [
     "index.md",
     "ynode.md",
+    "what-is-node.md",
+    "dom-manipulation.md",
+    "node-abstraction.md",
     "yevent.md",
     "credits.md"
 ]

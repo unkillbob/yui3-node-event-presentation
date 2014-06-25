@@ -11,5 +11,6 @@
 
 /* Larger code blocks */
 .reveal pre {
+    margin: 30px auto;
     font-size: 1em;
 }
