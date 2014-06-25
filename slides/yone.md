@@ -1,6 +1,6 @@
 ## `Y.one`
 
-```js
+```javascript
 YUI().use('node-base', function(Y) {
     // Get by CSS selector
     var myNode = Y.one('.css-class'),

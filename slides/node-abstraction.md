@@ -1,6 +1,6 @@
 ##  Node Abstraction
 
-```js
+```javascript
 YUI().use('node-base', function(Y) {
     var myNode = /*spoiler alert*/;
 
