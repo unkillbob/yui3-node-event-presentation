@@ -9,6 +9,15 @@
     font-size: 2em;
 }
 
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+    text-transform: none;
+}
+
 /* Larger code blocks */
 .reveal pre {
     margin: 30px auto;

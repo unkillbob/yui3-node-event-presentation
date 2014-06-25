@@ -4,6 +4,13 @@
     "what-is-node.md",
     "dom-manipulation.md",
     "node-abstraction.md",
+    {
+        "filename": "the-one.md",
+        "attr": {
+            "data-background": "images/the-one.png"
+        }
+    },
+    "yone.md",
     "yevent.md",
     "credits.md"
 ]
