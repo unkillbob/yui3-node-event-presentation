@@ -1,3 +1,3 @@
 
 # YUI 3
-## Node & Event Basics
+## Node & Event

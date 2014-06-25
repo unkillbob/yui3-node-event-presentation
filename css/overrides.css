@@ -1,0 +1,15 @@
+/* Bigger headings */
+.reveal h1 {
+    font-size: 5em;
+}
+.reveal h2 {
+    font-size: 3em;
+}
+.reveal h3 {
+    font-size: 2em;
+}
+
+/* Larger code blocks */
+.reveal pre {
+    font-size: 1em;
+}
