@@ -9,7 +9,7 @@ Node
 
 ### The One
 
-- [ ] Y.one
+- [x] Y.one
 - [ ] CSS selectors -> back to front
 - [ ] IDs
 - [ ] not null-safe
@@ -31,8 +31,36 @@ Node
 Event
 =====
 
-TODO
+### DOM Events
 
+- [ ] vs onclick vs href
+- [ ] YAHOO.util.Event
+
+### Subscribing to Events
+
+- [ ] Node.on
+- [ ] `event` facade
+- [ ] preventDefault() / stopPropagation()
+
+### Event Delegation
+
+- [ ] Node.delegate
+
+### Lazy Binding
+
+- [ ] Y.on and Y.delegate // caution
+
+### Key Events
+
+- [ ] event-key
+
+### Extras for Experts
+
+- [ ] event-focus
+- [ ] event-mouseenter
+- [ ] event-mousewheel
+- [ ] event-touch
+- [ ] event-tap
 
 Homeless
 ========
