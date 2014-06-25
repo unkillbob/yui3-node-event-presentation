@@ -1,4 +1,4 @@
-# Y.Event
+# `Y.Event`
 
 ```js
 YUI().use('event-base', function(Y) {

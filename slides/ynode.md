@@ -1,4 +1,4 @@
-# Y.Node
+# `Y.Node`
 
 ```js
 YUI().use('node-base', function(Y) {
