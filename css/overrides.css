@@ -21,5 +21,10 @@
 /* Larger code blocks */
 .reveal pre {
     margin: 30px auto;
-    font-size: 1em;
+    font-size: .9em;
+}
+
+/* No borders on images */
+.reveal section img {
+    border: none;
 }

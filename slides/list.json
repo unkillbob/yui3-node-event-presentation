@@ -19,13 +19,7 @@
     "attributes.md",
     "nodeone.md",
     "do-i-need-more.md",
-    {
-        "filename": "no.md",
-        "attr": {
-            "data-background": "images/grumpy-cat.jpg",
-            "data-background-size": "45%"
-        }
-    },
+    "no.md",
     "node-style.md",
     "yevent.md",
     "credits.md"
