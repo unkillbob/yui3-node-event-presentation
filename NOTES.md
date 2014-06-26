@@ -20,18 +20,23 @@ Node
 - [x] set/get attributes
 - [x] Node.one
 
-### Do I need anything but node-base?
-
-- [ ] No
-- [ ] node-style
-- [ ] Read docs
-
 ### NodeList
 
 - [ ] collection of Nodes
 - [ ] mostly same API as Node
 - [ ] null/empty safe
 - [ ] events? -> rather use delegation (later)
+
+### Do I need anything but node-base?
+
+- [x] No
+- [x] node-style
+
+### Learn More
+
+- [ ] migrating from YUI 2 (http://yuilibrary.com/yui/docs/node/#node-migration)
+- [ ] migrating from jQuery (http://www.jsrosettastone.com/)
+- [ ] read more (http://yuilibrary.com/yui/docs/ & http://yuilibrary.com/yui/docs/node/)
 
 Event
 =====
