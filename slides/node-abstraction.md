@@ -2,7 +2,7 @@
 
 ```javascript
 YUI().use('node-base', function(Y) {
-    var myNode = /*spoiler alert*/;
+    var myNode = /* spoiler alert! */;
 
     myNode.addClass('my-class')
         .set('text', 'Hello World!')

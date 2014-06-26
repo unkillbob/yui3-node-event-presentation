@@ -22,10 +22,9 @@ Node
 
 ### NodeList
 
-- [ ] collection of Nodes
-- [ ] mostly same API as Node
-- [ ] null/empty safe
-- [ ] events? -> rather use delegation (later)
+- [x] collection of Nodes
+- [x] mostly same API as Node
+- [x] null/empty safe
 
 ### Do I need anything but node-base?
 

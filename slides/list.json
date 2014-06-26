@@ -18,6 +18,17 @@
     "classy.md",
     "attributes.md",
     "nodeone.md",
+    {
+        "filename": "lots-of-nodes.md",
+        "attr": {
+            "data-background": "images/ball-pit.gif"
+        }
+    },
+    "nodelist.md",
+    "same-api.md",
+    "yall.md",
+    "all.md",
+    "null-safe.md",
     "do-i-need-more.md",
     "no.md",
     "node-style.md",
