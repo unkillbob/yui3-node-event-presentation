@@ -5,21 +5,26 @@ Node
 
 - [x] DOM abstraction
 - [x] Y.DOM
-- [x] Wraps HTML element -> better API
+- [x] Wraps HTML element -> better API (+ chaining)
 
 ### The One
 
 - [x] Y.one
 - [x] CSS selectors -> back to front
-- [ ] IDs
 - [ ] not null-safe
 
-### Node
+### What does Node do?
 
-- [ ] add/remove class
+- [ ] set/get content
+- [ ] add/remove/has classes
 - [ ] set/get attributes
-- [ ] chaining
 - [ ] Node.one
+
+### Do I need anything but node-base?
+
+- [ ] No
+- [ ] node-style
+- [ ] Read docs
 
 ### NodeList
 
