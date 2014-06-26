@@ -3,6 +3,7 @@ Node
 
 ### What is Node?
 
+- [ ] native APIs not so great - bugs & inconsistencies
 - [x] DOM abstraction
 - [x] Y.DOM
 - [x] Wraps HTML element -> better API (+ chaining)
@@ -17,7 +18,7 @@ Node
 
 - [x] set/get content
 - [x] add/remove/has classes
-- [x] set/get attributes
+- [x] set/get attributes // discourage custom attrs (use data attrs)
 - [x] Node.one
 
 ### NodeList
@@ -26,9 +27,11 @@ Node
 - [x] mostly same API as Node
 - [x] null/empty safe
 
-### Do I need anything but node-base?
+### Do I need any other node-* modules besides node-base?
 
 - [x] No
+- [ ] Well maybe - API docs should say what you need
+- [ ] _Don't use `node`?_
 - [x] node-style
 
 ### Learn More
@@ -36,6 +39,8 @@ Node
 - [x] migrating from YUI 2 (http://yuilibrary.com/yui/docs/node/#node-migration)
 - [x] migrating from jQuery (http://www.jsrosettastone.com/)
 - [x] read more (http://yuilibrary.com/yui/docs/ & http://yuilibrary.com/yui/docs/node/)
+
+### Questions on Node
 
 Event
 =====
