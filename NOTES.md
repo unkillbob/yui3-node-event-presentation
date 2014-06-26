@@ -3,7 +3,7 @@ Node
 
 ### What is Node?
 
-- [ ] native APIs not so great - bugs & inconsistencies
+- [x] native APIs not so great - bugs & inconsistencies
 - [x] DOM abstraction
 - [x] Y.DOM
 - [x] Wraps HTML element -> better API (+ chaining)
