@@ -45,16 +45,17 @@ Node
 Event
 =====
 
-### DOM Events
+### What is Event?
 
-- [ ] vs onclick vs href
-- [ ] YAHOO.util.Event
+- [x] vs onclick
+- [x] browser APIs
+- [x] YAHOO.util.Event
 
 ### Subscribing to Events
 
-- [ ] Node.on
-- [ ] `event` facade
-- [ ] preventDefault() / stopPropagation()
+- [x] Node.on
+- [x] `event` facade
+- [x] preventDefault() / stopPropagation()
 
 ### Event Delegation
 
