@@ -20,6 +20,7 @@
 
 /* Larger code blocks */
 .reveal pre {
+    width: 95%;
     margin: 30px auto;
     font-size: .9em;
 }

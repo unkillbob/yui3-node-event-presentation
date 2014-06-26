@@ -1,7 +1,7 @@
 ## `node-style`
 
 ```javascript
-YUI().use('node-base', 'node-style', function(Y) {
+YUI().use('node-base','node-style',function(Y) {
     var myNode = Y.one('#my-node');
 
     // NOTE: camel case, not hyphenated
@@ -12,3 +12,4 @@ YUI().use('node-base', 'node-style', function(Y) {
     myNode.setStyle('display', 'none');
 });
 ```
+<!-- .element: class="fragment" -->
