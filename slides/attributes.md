@@ -7,7 +7,7 @@ myNode.set('data-foo', 'bar');
 ```
 
 ```javascript
-// Set custom attributes
+// Set custom attributes (discouraged)
 myNode.setAttribute('custom-attr', '!');
 ```
 
