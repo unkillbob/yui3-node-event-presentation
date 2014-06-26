@@ -65,7 +65,7 @@ Event
 
 ### Lazy Binding
 
-- [ ] Y.on and Y.delegate // caution
+- [x] Y.on and Y.delegate // caution
 
 ### Key Events
 
