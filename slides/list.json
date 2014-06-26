@@ -45,5 +45,21 @@
     "yui-2-event.md",
     "nodeon.md",
     "the-facade.md",
+    {
+        "filename": "lots-of-nodes.md",
+        "attr": {
+            "data-background": "images/ball-pit.gif"
+        }
+    },
+    "nodeliston.md",
+    "no.md",
+    {
+        "filename": "bubbles.md",
+        "attr": {
+            "data-background": "images/bubbles.gif"
+        }
+    },
+    "tasklist.md",
+    "delegation.md",
     "credits.md"
 ]

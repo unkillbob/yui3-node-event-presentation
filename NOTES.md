@@ -59,7 +59,9 @@ Event
 
 ### Event Delegation
 
-- [ ] Node.delegate
+- [x] Event bubbling
+- [x] Tasklist example
+- [x] Node.delegate
 
 ### Lazy Binding
 
