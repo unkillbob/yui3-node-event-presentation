@@ -10,3 +10,6 @@ YUI().use('node-base', function(Y) {
         //.etc()
 });
 ```
+
+- Still normalizes inconsistencies/bugs
+- Better API (terse, method chaining)
