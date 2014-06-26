@@ -15,10 +15,10 @@ Node
 
 ### What does Node do?
 
-- [ ] set/get content
-- [ ] add/remove/has classes
-- [ ] set/get attributes
-- [ ] Node.one
+- [x] set/get content
+- [x] add/remove/has classes
+- [x] set/get attributes
+- [x] Node.one
 
 ### Do I need anything but node-base?
 
