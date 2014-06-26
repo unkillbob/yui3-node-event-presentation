@@ -11,7 +11,7 @@ Node
 
 - [x] Y.one
 - [x] CSS selectors -> back to front
-- [ ] not null-safe
+- [x] not null-safe
 
 ### What does Node do?
 
