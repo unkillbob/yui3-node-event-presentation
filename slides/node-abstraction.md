@@ -1,4 +1,4 @@
-##  Node Abstraction
+## `Y.Node`: Abstraction
 
 ```javascript
 YUI().use('node-base', function(Y) {
@@ -10,6 +10,10 @@ YUI().use('node-base', function(Y) {
         //.etc()
 });
 ```
+<!-- .element: class="fragment" -->
 
 - Still normalizes inconsistencies/bugs
+<!-- .element: class="fragment" -->
+
 - Better API (terse, method chaining)
+<!-- .element: class="fragment" -->

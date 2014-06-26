@@ -10,3 +10,4 @@ YUI().use('node-base', function(Y) {
     myNode.addClass('my-class');
 });
 ```
+<!-- .element: class="fragment" -->

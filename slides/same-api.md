@@ -1,6 +1,7 @@
 ## Same API as `Y.Node`
 
 ### ... mostly
+<!-- .element: class="fragment" -->
 
 ```javascript
 YUI().use('node-base', function(Y) {
@@ -13,3 +14,4 @@ YUI().use('node-base', function(Y) {
         //.etc()
 });
 ```
+<!-- .element: class="fragment" -->

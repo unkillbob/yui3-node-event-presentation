@@ -6,8 +6,10 @@ Selectors are evaluated back to front.
 // Bad
 Y.one('.my-class div');
 ```
+<!-- .element: class="fragment" -->
 
 ```javascript
 // Better
 Y.one('.my-class > .my-specific-class');
 ```
+<!-- .element: class="fragment" -->

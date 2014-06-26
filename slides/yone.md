@@ -10,3 +10,4 @@ YUI().use('node-base', function(Y) {
     var bodyNode = Y.one(document.body);
 });
 ```
+<!-- .element: class="fragment" -->

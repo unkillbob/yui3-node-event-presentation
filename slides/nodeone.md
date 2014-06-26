@@ -7,6 +7,10 @@ YUI().use('node-base', function(Y) {
     myNode.one('.my-class');
 });
 ```
+<!-- .element: class="fragment" -->
 
-- Combine selectors > chaining
+- Combine selectors faster than chaining
+<!-- .element: class="fragment" -->
+
 - Useful if already have reference to existing Node
+<!-- .element: class="fragment" -->
