@@ -34,9 +34,9 @@ Node
 
 ### Learn More
 
-- [ ] migrating from YUI 2 (http://yuilibrary.com/yui/docs/node/#node-migration)
-- [ ] migrating from jQuery (http://www.jsrosettastone.com/)
-- [ ] read more (http://yuilibrary.com/yui/docs/ & http://yuilibrary.com/yui/docs/node/)
+- [x] migrating from YUI 2 (http://yuilibrary.com/yui/docs/node/#node-migration)
+- [x] migrating from jQuery (http://www.jsrosettastone.com/)
+- [x] read more (http://yuilibrary.com/yui/docs/ & http://yuilibrary.com/yui/docs/node/)
 
 Event
 =====
