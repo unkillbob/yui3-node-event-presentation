@@ -30,8 +30,8 @@ Node
 ### Do I need any other node-* modules besides node-base?
 
 - [x] No
-- [ ] Well maybe - API docs should say what you need
-- [ ] _Don't use `node`?_
+- [x] Well maybe - API docs should say what you need
+- [x] _Don't use `node`?_
 - [x] node-style
 
 ### Learn More
@@ -80,5 +80,5 @@ Homeless
 ========
 _Topics that need to go somewhere, just not sure where._
 
-- [ ] modules (node-base, event-base, etc)
+- [x] modules (node-base, event-base, etc)
 - [ ] caching nodes (i.e. saving references)
