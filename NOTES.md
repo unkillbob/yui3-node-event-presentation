@@ -67,17 +67,14 @@ Event
 
 - [x] Y.on and Y.delegate // caution
 
-### Key Events
+### Other Event Modules
 
-- [ ] event-key
+- [x] event-key
+- [x] event-focus
+- [x] event-mouseenter
+- [x] event-mousewheel
+- [x] event-touch
 
-### Extras for Experts
-
-- [ ] event-focus
-- [ ] event-mouseenter
-- [ ] event-mousewheel
-- [ ] event-touch
-- [ ] event-tap
 
 Homeless
 ========

@@ -63,5 +63,11 @@
     "delegation.md",
     "lazy-binding.md",
     "no.md",
+    "other-event-modules.md",
+    "event-key.md",
+    "event-focus.md",
+    "event-mouseenter.md",
+    "event-mousewheel.md",
+    "event-touch.md",
     "credits.md"
 ]
