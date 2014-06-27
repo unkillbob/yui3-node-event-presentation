@@ -9,8 +9,11 @@ YUI().use('node-base', function(Y) {
 ```
 <!-- .element: class="fragment" -->
 
-- Combine selectors faster than chaining
+- Faster searching of smaller DOM tree
 <!-- .element: class="fragment" -->
 
 - Useful if already have reference to existing Node
+<!-- .element: class="fragment" -->
+
+- Combining selectors can be faster than chaining
 <!-- .element: class="fragment" -->
