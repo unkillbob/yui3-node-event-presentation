@@ -13,7 +13,7 @@ Node
 - [x] Y.one
 - [x] CSS selectors -> back to front
 - [x] not null-safe
-- [ ] locally caching node instances
+- [x] locally caching node instances
 
 ### What does Node do?
 
@@ -83,4 +83,4 @@ Homeless
 _Topics that need to go somewhere, just not sure where._
 
 - [x] modules (node-base, event-base, etc)
-- [ ] caching nodes (i.e. saving references)
+- [x] caching nodes (i.e. saving references)
