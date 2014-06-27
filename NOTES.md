@@ -13,13 +13,14 @@ Node
 - [x] Y.one
 - [x] CSS selectors -> back to front
 - [x] not null-safe
+- [ ] locally caching node instances
 
 ### What does Node do?
 
 - [x] set/get content
 - [x] add/remove/has classes
 - [x] set/get attributes // discourage custom attrs (use data attrs)
-- [x] Node.one
+- [x] Node.one // talk up scoping, disclaim on chaining
 
 ### NodeList
 
