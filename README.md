@@ -34,9 +34,3 @@ Run `grunt` to build the presentation and open it in your browser:
     $ grunt
 
 **Note:** this also starts a live reload server.
-
-
-Adding Content
---------------
-
-Don't edit `index.html`! See the [Generators](https://github.com/slara/generator-reveal#generators) section of the [generator-reveal](https://github.com/slara/generator-reveal) docs for how to add new slides.
