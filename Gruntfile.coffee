@@ -1,4 +1,4 @@
-# Generated on 2014-06-04 using generator-reveal 0.3.6
+# Generated on 2014-06-29 using generator-reveal 0.3.6
 module.exports = (grunt) ->
 
     grunt.initConfig
@@ -77,6 +77,18 @@ module.exports = (grunt) ->
                 }]
 
         
+        buildcontrol:
+
+             options:
+                dir: 'dist'
+                commit: true
+                push: true
+                message: 'Built from %sourceCommit% on branch %sourceBranch%'
+            pages:
+                options:
+                    remote: 'git@github.com:unkillbob/yui3-node-event-presentation.git'
+                    branch: 'gh-pages'
+        
 
 
     # Load all grunt tasks.
@@ -118,6 +130,12 @@ module.exports = (grunt) ->
             'copy'
         ]
 
+    
+    grunt.registerTask 'deploy',
+        'Deploy to Github Pages', [
+            'dist'
+            'buildcontrol'
+        ]
     
 
     # Define default task.
