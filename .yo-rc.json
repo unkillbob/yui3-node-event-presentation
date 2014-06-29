@@ -3,6 +3,8 @@
     "presentationTitle": "YUI 3 Node & Event Basics",
     "packageVersion": "0.0.0",
     "useSass": false,
-    "deployToGithubPages": false
+    "deployToGithubPages": true,
+    "githubUsername": "unkillbob",
+    "githubRepository": "yui3-node-event-presentation"
   }
 }
