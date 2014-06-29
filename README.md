@@ -9,12 +9,20 @@ Built with [reveal.js](https://github.com/hakimel/reveal.js) via the [generator-
 Setup
 -----
 
-Install dependencies with npm:
+Ensure you have the following installed:
+
+1. [Node.js](http://nodejs.org/)
+2. [Bower](http://bower.io/):
+
+        $ npm install -g bower
+
+3. [Grunt](http://gruntjs.com/):
+
+        $ npm install -g grunt-cli
+
+Install dependencies:
 
     $ npm install
-
-and bower:
-
     $ bower install
 
 
