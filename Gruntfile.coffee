@@ -30,7 +30,7 @@ module.exports = (grunt) ->
             jshint:
                 files: ['js/*.js']
                 tasks: ['jshint']
-        
+
         connect:
 
             livereload:
@@ -48,6 +48,8 @@ module.exports = (grunt) ->
             options:
                 indentation:
                     value: 4
+                max_line_length:
+                    value: 120
 
             all: ['Gruntfile.coffee']
 
@@ -76,10 +78,10 @@ module.exports = (grunt) ->
                     filter: 'isFile'
                 }]
 
-        
+
         buildcontrol:
 
-             options:
+            options:
                 dir: 'dist'
                 commit: true
                 push: true
@@ -88,7 +90,7 @@ module.exports = (grunt) ->
                 options:
                     remote: 'git@github.com:unkillbob/yui3-node-event-presentation.git'
                     branch: 'gh-pages'
-        
+
 
 
     # Load all grunt tasks.
@@ -130,13 +132,13 @@ module.exports = (grunt) ->
             'copy'
         ]
 
-    
+
     grunt.registerTask 'deploy',
         'Deploy to Github Pages', [
             'dist'
             'buildcontrol'
         ]
-    
+
 
     # Define default task.
     grunt.registerTask 'default', [
