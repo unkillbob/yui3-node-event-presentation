@@ -5,7 +5,7 @@ YUI().use('node-base','node-event-delegate',function(Y) {
     var taskList = Y.one('.prf-tasklist');
 
     taskList.delegate('click', function(event) {
-        var button = event.target,
+        var button = event.currentTarget,
             task = button.ancestor('.prf-task');
 
         markTaskComplete(task);
